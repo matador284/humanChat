@@ -193,7 +193,7 @@ sub create_default_config {
             enabled => 1
         },
         groq => { 
-            api_key => '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', 
+            api_key => 'sua_chave_groq_aqui', 
             base_url => 'https://api.groq.com/openai/v1/chat/completions', 
             model => 'llama-3.1-8b-instant',
             enabled => 1
@@ -999,4 +999,5 @@ sub Unload {
 
 
 1;
+
 
