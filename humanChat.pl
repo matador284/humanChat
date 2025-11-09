@@ -5,7 +5,7 @@
 #  AUTOR: Coconute                                                                                                       #
 #  VERSÃO: 3.0 ULTRA ROBUSTA                                                                                             #
 #  DATA: 2025                                                                                                            #
-#  GITHUB: https://github.com/Coconute                                                                                   #
+#  GITHUB: https://github.com/matador284                                                                                 #
 #                                                                                                                         #
 #  ====================================================================================================                   #
 #                                                                                                                         #
@@ -107,7 +107,6 @@
 #                                                                                                                         #
 #  SUPORTE:                                                                                                              #
 #  Para reportar bugs ou sugerir melhorias, visite:                                                                      #
-#  https://openkore.com.br                                                                #
 #                                                                                                                         #
 ###############################################################
 
@@ -997,5 +996,6 @@ sub Unload {
     Plugins::delHooks($hooks);
     message "[humanChat] 👋 Sistema ultra robusto descarregado\n", "success";
 }
+
 
 1;
