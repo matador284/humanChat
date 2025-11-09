@@ -10,8 +10,14 @@
 Sistema avançado de resposta automática para OpenKore que utiliza múltiplas APIs de IA                               
 para gerar respostas humanizadas e naturais em conversas de Ragnarok Online.                                        
 Com fallback automático entre 12+ APIs e modo local inteligente.                                                    
+
+
+<img width="722" height="827" alt="2025-11-09 01_36_23-Window" src="https://github.com/user-attachments/assets/5324e2c0-b64c-4c3e-a7ff-ae49143d2721" />
+<img width="803" height="509" alt="2025-11-08 17_46_24-Window" src="https://github.com/user-attachments/assets/663200b4-064b-4e6a-bb2c-4b4d11d8e0bd" />
+
+                                                                                                               
                                                                                                                      
-=======================================================
+                                                                                                                     
                                                                                                                 
 ##  REQUISITOS DE INSTALAÇÃO: 
 
