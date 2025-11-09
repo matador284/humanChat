@@ -77,7 +77,7 @@ Com fallback automático entre 12+ APIs e modo local inteligente.
                                                                                                                         
 ##  CONFIGURAÇÃO RÁPIDA:                                                                                                  
   1. Configure suas chaves API no arquivo: plugins/humanChat/api_config.json
-  2. Não esqueca de adicionar no openkore-master/control/sys.txt
+  2. Não esqueca de adicionar no openkore-master/control/sys.txt  no loadPlugins_list humanChat
 
     
   ### Exemplo Estrutura do Arquivo de Configuração
