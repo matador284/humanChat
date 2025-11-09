@@ -86,7 +86,7 @@ Com fallback automático entre 12+ APIs e modo local inteligente.
   2. Não esqueca de adicionar no openkore-master/control/sys.txt  no loadPlugins_list humanChat
 
     
-  ### Exemplo Estrutura do Arquivo de Configuração
+  ### Exemplo Estrutura do Arquivo de Configuração do api_config.json
   
     {
     "openai": {
