@@ -2,7 +2,8 @@
   AUTOR: Coconute                                                                                                     
   VERSÃO: 3.0 ULTRA ROBUSTA                                                                                            
   DATA: 2025                                                                                                            
-  GITHUB: https://github.com/matador284                                                                                 
+  GITHUB: https://github.com/matador284
+## LIVEPIX:  https://livepix.gg/coconute
                                                                                                                       
 =======================================================
                                                                                                                      
