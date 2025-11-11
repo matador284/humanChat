@@ -66,7 +66,76 @@ Com fallback automático entre 12+ APIs e modo local inteligente.
   | 11 | AI21       | Freemium  | ✅        | j2-ultra                          | Plano free disponível               |  
   | 12 | Forefront  | Gratuita  | ✅        | gpt-3.5-turbo                     | Ilimitado*                           |  
   -------------------------------------------------------------------------------------------------------------------- 
-  * Sujeito a disponibilidade e limites de uso não documentados                                                        
+  * Sujeito a disponibilidade e limites de uso não documentados
+
+## SITE para gerar os api
+
+OpenAI:
+
+Site: https://platform.openai.com/
+Como obter: Crie uma conta, vá para "API Keys" e gere uma chave.
+Observação: Pago, mas tem crédito inicial gratuito.
+
+DeepSeek:
+
+Site: https://platform.deepseek.com/
+Como obter: Registre-se e gere uma chave de API.
+Observação: Tem um plano gratuito.
+
+Google Gemini:
+
+Site: https://makersuite.google.com/app/apikey
+Como obter: Crie um projeto no Google Cloud, ative a API do Gemini e gere uma chave.
+Observação: Tem um plano gratuito com limites.
+
+Claude (Anthropic):
+
+Site: https://console.anthropic.com/
+Como obter: Registre-se e gere uma chave.
+Observação: Pago, mas pode ter trial.
+
+Groq:
+
+Site: https://console.groq.com/
+Como obter: Registre-se e gere uma chave.
+Observação: Grátis no momento com limites.
+
+FreeGPT:
+
+Site: Não encontrado, provavelmente é uma API não oficial. Pode não requerer chave, mas a URL base já está configurada.
+HuggingChat:
+Site: https://huggingface.co/chat
+Como obter: Pode não requerer chave, mas a URL base já está configurada.
+
+DeepAI:
+
+Site: https://deepai.org/
+Como obter: Registre-se e gere uma chave em https://deepai.org/dashboard#api-key.
+Observação: Tem um plano gratuito com limites.
+
+TextSynth:
+
+Site: https://textsynth.com/
+Como obter: Registre-se e gere uma chave em https://textsynth.com/account.html.
+Observação: Tem um plano gratuito.
+
+Cohere:
+
+Site: https://cohere.ai/
+Como obter: Registre-se e gere uma chave no dashboard.
+Observação: Tem um plano gratuito.
+
+AI21:
+
+Site: https://studio.ai21.com/
+Como obter: Registre-se e gere uma chave.
+Observação: Tem um plano gratuito.
+
+Forefront:
+
+Site: https://forefront.ai/
+Como obter: Registre-se e gere uma chave.
+Observação: Tem um plano gratuito.
                                                                                                                          
 =======================================================                  
                                                                                                                          
